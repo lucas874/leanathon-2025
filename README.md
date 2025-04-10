@@ -36,7 +36,7 @@ We propose having joint interactive lectures and workshops (it is a leanathon af
 
 ## Exciting snippets of what you can do
 
-### Embed Wasm (wast) into lean syntax
+### Embed Wasm (wat) into lean syntax
 
 ```lean
 /--
