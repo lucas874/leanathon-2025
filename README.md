@@ -16,7 +16,7 @@ The goal of this course is to learn how to work with the Lean 4 theorem prover, 
 
 We propose having joint interactive lectures and workshops (it is a leanathon after all) on ...
 
-- **Tuesday mornings** and
+- **Tuesday mornings or afternoons (TBD)** and
 - **Thursday afternoons**
 
 ... for three weeks starting **22/4**. Please open issues or [contact](mailto:oembo@dtu.dk) if you have any recommendations or comments about this or if it doesn't work for you!
