@@ -14,15 +14,20 @@ The goal of this course is to learn how to work with the Lean 4 theorem prover, 
 
 ## Dates
 
-We propose having joint interactive lectures and workshops (it is a leanathon after all) on **Tuesday mornings** and **Thursday afternoons** for three weeks starting 22/4. Please open issues or contact if you have any recommendations or comments about this or if it doesn't work for you!
+We propose having joint interactive lectures and workshops (it is a leanathon after all) on ...
 
-| Date | Description  |
-|------|--------------|
-| 22/4 | Introduction |
-| 24/4 | TBD          |
-| 29/4 | TBD          |
-|  1/5 | TBD          |
-|  8/5 | TBD          |
+- **Tuesday mornings** and
+- **Thursday afternoons**
+
+... for three weeks starting **22/4**. Please open issues or [contact](mailto:oembo@dtu.dk) if you have any recommendations or comments about this or if it doesn't work for you!
+
+| Date          | Description  |
+| ------------- | ------------ |
+| Tuesday 22/4  | Introduction |
+| Thursday 24/4 | TBD          |
+| Tuesday 29/4  | TBD          |
+| Thursday 1/5  | TBD          |
+| Thursday 8/5  | TBD          |
 
 ## Participants
 
