@@ -26,5 +26,5 @@ We propose having joint interactive lectures and workshops (it is a leanathon af
 
 ## Participants
 
-- [Oliver Bøving](oembo@dtu.dk)
+- [Oliver Bøving](https://github.com/oeb25)
 - [_You? Please add yourself if you would like to join!_](https://github.com/oembo-sse/leanathon-2025/edit/main/README.md)
