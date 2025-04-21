@@ -16,18 +16,18 @@ The goal of this course is to learn how to work with the Lean 4 theorem prover, 
 
 We propose having joint interactive lectures and workshops (it is a leanathon after all) on ...
 
-- **Tuesday mornings or afternoons (TBD)** and
+- **Tuesday afternoons** and
 - **Thursday afternoons**
 
 ... for three weeks starting **22/4**. Please open issues or [contact](mailto:oembo@dtu.dk) if you have any recommendations or comments about this or if it doesn't work for you!
 
-| Date          | Description  |
-| ------------- | ------------ |
-| Tuesday 22/4  | Introduction |
-| Thursday 24/4 | TBD          |
-| Tuesday 29/4  | TBD          |
-| Thursday 1/5  | TBD          |
-| Thursday 8/5  | TBD          |
+| Date          | Time  | Description                   |
+| ------------- | ----- | ----------------------------- |
+| Tuesday 22/4  | 13.15 | Introduction                  |
+| Thursday 24/4 | 13.15 | Modeling and semantics        |
+| Tuesday 29/4  | 13.15 | Syntax and embedded languages |
+| Thursday 1/5  | 13.15 | TBD                           |
+| Thursday 8/5  | 13.15 | TBD                           |
 
 ## Participants
 
