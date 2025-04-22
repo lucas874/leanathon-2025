@@ -33,6 +33,7 @@ We propose having joint interactive lectures and workshops (it is a leanathon af
 
 - [Oliver Bøving](https://github.com/oeb25)
 - [Ayman Hussein](https://github.com/a-y-man)
+- [Jonas Lindner](https://github.com/lindner-jonas)
 - [_You? Please add yourself if you would like to join!_](https://github.com/oembo-sse/leanathon-2025/edit/main/README.md)
 
 ## Exciting snippets of what you can do
