@@ -21,13 +21,13 @@ We propose having joint interactive lectures and workshops (it is a leanathon af
 
 ... for three weeks starting **22/4**. Please open issues or [contact](mailto:oembo@dtu.dk) if you have any recommendations or comments about this or if it doesn't work for you!
 
-| Date          | Time  | Description                   |
-| ------------- | ----- | ----------------------------- |
-| Tuesday 22/4  | 13.15 | Introduction                  |
-| Thursday 24/4 | 13.15 | Modeling and semantics        |
-| Tuesday 29/4  | 13.15 | Syntax and embedded languages |
-| Thursday 1/5  | 13.15 | TBD                           |
-| Thursday 8/5  | 13.15 | TBD                           |
+| Date          | Time  | Description                      |
+| ------------- | ----- | -------------------------------- |
+| Tuesday 22/4  | 13.15 | [Introduction](w01.md)           |
+| Thursday 24/4 | 13.15 | [Modeling and semantics](w02.md) |
+| Tuesday 29/4  | 13.15 | Syntax and embedded languages    |
+| Thursday 1/5  | 13.15 | TBD                              |
+| Thursday 8/5  | 13.15 | TBD                              |
 
 ## Participants
 
