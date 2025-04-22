@@ -1,0 +1,15 @@
+name = "leanathon"
+version = "0.1.0"
+defaultTargets = ["leanathon"]
+
+[[lean_lib]]
+name = "Leanathon"
+
+[[lean_exe]]
+name = "leanathon"
+root = "Main"
+
+[[require]]
+name = "proofwidgets"
+git = "https://github.com/leanprover-community/ProofWidgets4"
+rev = "v0.0.56"

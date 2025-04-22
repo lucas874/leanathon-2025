@@ -1,0 +1,3 @@
+- Limit `$n:num` in `macro_rules` with throw
+- Hover of custom to syntax
+- Add keywords only in notation
